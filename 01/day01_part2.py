@@ -1,4 +1,3 @@
-## Part 2
 input = open("day01_input.txt").read().split('\n')
 
 position = 50
